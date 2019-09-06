@@ -48,7 +48,6 @@ headerType* getHeaderType() {
 {
     HFFuncDataInfo *funcs;
     size_t outCount;
-    NSMutableArray *objArray;
 }
 
 @end
